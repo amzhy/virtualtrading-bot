@@ -6,6 +6,8 @@ Paper money trading web application built using `python`, `Flask`, `sqlite3` and
 
 Wesbite: https://virtualtradingbot.herokuapp.com/login
 
+or 
+
 To run it locally:
 
 Run `python app.py` and view on http://localhost:5000/
